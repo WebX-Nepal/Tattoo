@@ -1,0 +1,17 @@
+/* .nav-logo {
+  animation-name: logo;
+  animation-duration: 5s;
+  animation-range-end: scroll;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: 1;
+}
+@keyframes logo {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(-600%);
+  }
+} */
+
+/* box-shadow: 0 0 40px 8px rgba(0,0,0,0.9); */
